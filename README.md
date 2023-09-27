@@ -1,5 +1,5 @@
 # Database-Design-Principles-IUST
-My solutions to IUST's Database Design Principles, Fall 2022, Dr. Rahmani.
+My solutions to IUST's Database Design Principles, Spring 2022, Dr. Rahmani.
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/test-passed.png" alt="test-passed"/> Exams
 - Description: Folders for each quiz, from Quiz1 to Quiz13, containing quiz questions and their answers.
